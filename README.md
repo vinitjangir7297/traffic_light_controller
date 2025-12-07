@@ -1,0 +1,3 @@
+This is the verilog code for a traffic light controller in which There are three lights: Red, Green, and Yellow. When the circuit starts (reset), the light should be Red. After that, it should    keep changing in this order:
+Red → Green → Yellow → Red → Green → Yellow → …
+Each light should stay ON for a few clock cycles (example: Red = 5 cycles, Green = 5 cycles, Yellow = 2 cycles). 
